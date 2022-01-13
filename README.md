@@ -1,4 +1,9 @@
-### Hi there 👋
+## I'm new to github!
+
+I'm interested in learning...
+* more about github
+* how to better use R and python
+* how to knit intarsia in the round
 
 <!--
 **stephlee23/stephlee23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
